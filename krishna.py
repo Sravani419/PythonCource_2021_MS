@@ -1,0 +1,2 @@
+k = "krishna"
+print(k)
